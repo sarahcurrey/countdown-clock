@@ -1,0 +1,27 @@
+.navi_announcements_message_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffdb00;
+}
+.navi_announcements_message {
+  display: flex;
+  flex-direction: row;
+  font-family: Circular,Helvetica,Arial,sans-serif;
+  font-weight: 800;
+  background-color: #ffdb00;
+  color: #000000;
+}
+
+.clock {
+  padding: 0px 5px 0px 5px;
+}
+
+.days {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.colon {
+  padding: 5px;
+}
